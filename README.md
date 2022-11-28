@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is written in JS using React library. I used Chakra UI library for design and light/dark theme.
+Voice assisted AI is powered by Alan AI.
+
 
 ## Available Scripts
 
